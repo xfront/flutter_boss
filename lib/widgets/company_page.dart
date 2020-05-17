@@ -1,9 +1,9 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
-import 'package:flutter_boss/common/config/config.dart';
-import 'package:flutter_boss/model/company.dart';
-import 'package:flutter_boss/widgets/company/company_detail_page.dart';
-import 'package:flutter_boss/widgets/company/company_item.dart';
+import 'package:boss/common/config/config.dart';
+import 'package:boss/model/company.dart';
+import 'package:boss/widgets/company/company_detail_page.dart';
+import 'package:boss/widgets/company/company_item.dart';
 import 'package:http/http.dart' as http;
 
 class CompanyPage extends StatefulWidget {

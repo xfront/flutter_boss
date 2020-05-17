@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_boss/widgets/mine/contact_item.dart';
-import 'package:flutter_boss/widgets/mine/menu_item.dart';
+import 'package:boss/widgets/mine/contact_item.dart';
+import 'package:boss/widgets/mine/menu_item.dart';
 
 class MinePage extends StatefulWidget {
   @override

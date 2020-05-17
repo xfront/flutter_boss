@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_boss/model/job.dart';
+import 'package:boss/model/job.dart';
 
 class JobItem extends StatelessWidget {
   final Job job;

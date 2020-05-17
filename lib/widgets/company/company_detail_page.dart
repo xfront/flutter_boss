@@ -1,11 +1,11 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
-import 'package:flutter_boss/common/config/config.dart';
-import 'package:flutter_boss/common/widget/scroll_img_item.dart';
-import 'package:flutter_boss/model/company.dart';
-import 'package:flutter_boss/model/company_detail.dart';
-import 'package:flutter_boss/widgets/company/welfare_item.dart';
-import 'package:flutter_boss/widgets/gallery_page.dart';
+import 'package:boss/common/config/config.dart';
+import 'package:boss/common/widget/scroll_img_item.dart';
+import 'package:boss/model/company.dart';
+import 'package:boss/model/company_detail.dart';
+import 'package:boss/widgets/company/welfare_item.dart';
+import 'package:boss/widgets/gallery_page.dart';
 import 'package:http/http.dart' as http;
 
 class CompanyDetailPage extends StatefulWidget {

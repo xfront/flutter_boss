@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_boss/model/company.dart';
+import 'package:boss/model/company.dart';
 
 class CompanyItem extends StatelessWidget {
   final Company company;

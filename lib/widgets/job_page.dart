@@ -1,8 +1,8 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
-import 'package:flutter_boss/common/config/config.dart';
-import 'package:flutter_boss/model/job.dart';
-import 'package:flutter_boss/widgets/job/job_item.dart';
+import 'package:boss/common/config/config.dart';
+import 'package:boss/model/job.dart';
+import 'package:boss/widgets/job/job_item.dart';
 import 'package:http/http.dart' as http;
 
 class JobPage extends StatefulWidget {

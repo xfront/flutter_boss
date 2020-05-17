@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_boss/splash.dart';
+import 'package:boss/splash.dart';
 import 'package:redux/redux.dart';
-import 'package:flutter_boss/widgets/chat_page.dart';
-import 'package:flutter_boss/widgets/company_page.dart';
-import 'package:flutter_boss/widgets/mine_page.dart';
-import 'package:flutter_boss/widgets/job_page.dart';
-import 'package:flutter_boss/layout_type.dart';
+import 'package:boss/widgets/chat_page.dart';
+import 'package:boss/widgets/company_page.dart';
+import 'package:boss/widgets/mine_page.dart';
+import 'package:boss/widgets/job_page.dart';
+import 'package:boss/layout_type.dart';
 
 void main() => runApp(new App());
 

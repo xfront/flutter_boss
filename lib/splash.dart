@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_boss/main.dart';
+import 'package:boss/main.dart';
 
 class SplashPage extends StatefulWidget {
   @override
